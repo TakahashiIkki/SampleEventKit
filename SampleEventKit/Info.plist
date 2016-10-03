@@ -34,5 +34,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSCalendarsUsageDescription</key>
+    <string>カレンダーのイベントを自動的にインポート致します。</string>
 </dict>
 </plist>
